@@ -1,0 +1,32 @@
+_repo: The-Little-Colonel-s-House-Party_15741
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 15741-h/images/cover-tb.jpg
+creator:
+  author:
+    agent_name: Johnston, Annie F. (Annie Fellows)
+    aliases:
+    - Johnston, Annie Fellows
+    - Fellows, Annie
+    birthdate: 1863
+    deathdate: 1931
+    gutenberg_agent_id: '3050'
+    url: http://www.gutenberg.org/2009/agents/3050
+    wikipedia: http://en.wikipedia.org/wiki/Annie_Fellows_Johnston
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2005-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15741'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Girls -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Kentucky -- Social life and customs -- 19th century -- Juvenile fiction'
+title: The Little Colonel's House Party
+url: http://www.gutenberg.org/ebooks/15741
