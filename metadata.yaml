@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3050
     wikipedia: http://en.wikipedia.org/wiki/Annie_Fellows_Johnston
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15741#The-Little-Colonel-s-House-Party
 gutenberg_bookshelf: Children's Book Series
 gutenberg_issued: '2005-05-02'
 gutenberg_type: Text
